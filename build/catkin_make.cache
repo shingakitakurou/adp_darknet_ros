@@ -1,0 +1,2 @@
+cv3_bridge:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:kitti_to_rosbag/kitti_to_rosbag:sort-deepsort-yolov3-ROS/sort_track
+-DCATKIN_DEVEL_PREFIX=/home/adp/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adp/catkin_ws/install -G Unix Makefiles
